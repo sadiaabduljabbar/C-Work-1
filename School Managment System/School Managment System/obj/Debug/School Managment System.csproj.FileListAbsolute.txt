@@ -1,0 +1,14 @@
+C:\Users\student\Documents\C# sadia\School Managment System\School Managment System\bin\Debug\School Managment System.exe.config
+C:\Users\student\Documents\C# sadia\School Managment System\School Managment System\bin\Debug\School Managment System.exe
+C:\Users\student\Documents\C# sadia\School Managment System\School Managment System\bin\Debug\School Managment System.pdb
+C:\Users\student\Documents\C# sadia\School Managment System\School Managment System\obj\Debug\School Managment System.csproj.AssemblyReference.cache
+C:\Users\student\Documents\C# sadia\School Managment System\School Managment System\obj\Debug\School_Managment_System.Form1.resources
+C:\Users\student\Documents\C# sadia\School Managment System\School Managment System\obj\Debug\School_Managment_System.Properties.Resources.resources
+C:\Users\student\Documents\C# sadia\School Managment System\School Managment System\obj\Debug\School Managment System.csproj.GenerateResource.cache
+C:\Users\student\Documents\C# sadia\School Managment System\School Managment System\obj\Debug\School Managment System.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\C# sadia\School Managment System\School Managment System\obj\Debug\School Managment System.exe
+C:\Users\student\Documents\C# sadia\School Managment System\School Managment System\obj\Debug\School Managment System.pdb
+C:\Users\student\Documents\C# sadia\School Managment System\School Managment System\obj\Debug\School Managment System.exe.config
+C:\Users\student\Documents\C# sadia\School Managment System\School Managment System\obj\Debug\School_Managment_System.login.resources
+C:\Users\student\Documents\C# sadia\School Managment System\School Managment System\obj\Debug\School_Managment_System.register.resources
+C:\Users\student\Documents\C# sadia\School Managment System\School Managment System\obj\Debug\School_Managment_System.dashboard.resources
